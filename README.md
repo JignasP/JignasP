@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<img title="JignasP" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JignasP&layout=compact&theme=dark"></a>
-
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jignasp&layout=compact&langs_count=10&theme=transparent&hide_border=true&hide_title=false)
 <!--
 **JignasP/JignasP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
