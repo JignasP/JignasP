@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JignasP&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=false&bg_color=080808)](https://github.com/JignasP)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JignasP&layout=compact&langs_count=10&theme=dark&hide_border=true&hide_title=false&bg_color=333333)](https://github.com/JignasP)
 <!--
 **JignasP/JignasP** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
